@@ -1,0 +1,16 @@
+2025/12/28-12:21:10.571 52bc Reusing MANIFEST C:\FILES\projects\datahut assignt\datahub_assignmt\browser_session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/12/28-12:21:10.575 52bc Recovering log #10
+2025/12/28-12:21:10.576 52bc Level-0 table #13: started
+2025/12/28-12:21:10.581 52bc Level-0 table #13: 27777 bytes OK
+2025/12/28-12:21:10.581 52bc Recovering log #13
+2025/12/28-12:21:10.583 52bc Reusing old log C:\FILES\projects\datahut assignt\datahub_assignmt\browser_session\Default\Local Storage\leveldb/000013.log 
+2025/12/28-12:21:10.585 52bc Delete type=0 #10
+2025/12/28-12:21:10.585 52bc Delete type=2 #14
+2025/12/28-12:21:10.586 659c Compacting 4@0 + 0@1 files
+2025/12/28-12:21:10.598 659c Generated table #14@0: 98 keys, 16836 bytes
+2025/12/28-12:21:10.598 659c Compacted 4@0 + 0@1 files => 16836 bytes
+2025/12/28-12:21:10.599 659c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/28-12:21:10.600 659c Delete type=2 #7
+2025/12/28-12:21:10.600 659c Delete type=2 #9
+2025/12/28-12:21:10.600 659c Delete type=2 #11
+2025/12/28-12:21:10.600 659c Delete type=2 #13
