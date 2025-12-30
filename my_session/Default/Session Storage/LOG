@@ -1,0 +1,5 @@
+2025/12/30-09:57:55.668 5740 Creating DB C:\FILES\projects\datahut assignt\datahub_assignmt\my_session\Default\Session Storage since it was missing.
+2025/12/30-09:57:55.681 5740 Reusing MANIFEST C:\FILES\projects\datahut assignt\datahub_assignmt\my_session\Default\Session Storage/MANIFEST-000001
+2025/12/30-09:58:02.485 5ea0 Level-0 table #5: started
+2025/12/30-09:58:02.493 5ea0 Level-0 table #5: 37219 bytes OK
+2025/12/30-09:58:02.496 5ea0 Delete type=0 #3
