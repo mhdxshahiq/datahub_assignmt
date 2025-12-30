@@ -3,7 +3,7 @@ import random
 import pandas as pd
 from playwright.async_api import async_playwright
 
-# The only URL we need
+
 URL = "https://www.adidas.co.in/women-shoes-outlet"
 
 async def run_scraper():
