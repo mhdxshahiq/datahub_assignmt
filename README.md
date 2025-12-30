@@ -1,4 +1,4 @@
-# Datahut Science Assignment: Adidas Scraper
+# Datahut Assignment: Adidas Scraper
 
 This project is a Python-based web scraper built to collect product data from the **Adidas India Women's Shoes Outlet**.
 
