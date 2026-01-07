@@ -1,5 +1,4 @@
 import asyncio
-import random
 import pandas as pd
 from playwright.async_api import async_playwright
 
