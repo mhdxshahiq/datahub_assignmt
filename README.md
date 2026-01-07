@@ -30,3 +30,7 @@ The following 5 attributes were extracted for each product:
 1. **Install tools**: `pip install playwright pandas`.
 2. **Install Browser**: `playwright install chromium`.
 3. **Execute**: `python scraper.py`.
+
+Note: In the scraped MRP column, some values also contain discount text.
+We can remove the discount portion using the following command:
+df["price"] = df["price"].str.split(" -").str[0]
